@@ -1,0 +1,19 @@
+{
+  "name": "ssrender",
+  "version": "1.0.0",
+  "description": "server side rendering",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec ./test/node/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ltran/ssrender.git"
+  },
+  "author": "Louis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ltran/ssrender/issues"
+  },
+  "homepage": "https://github.com/ltran/ssrender#readme"
+}
